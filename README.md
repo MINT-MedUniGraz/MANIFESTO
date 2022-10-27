@@ -1,6 +1,6 @@
 # MANIFEST
 
-Ein Manifest (lateinisch manifestus ‚handgreiflich gemacht‘, ‚offenbart‘) ist eine öffentliche Erklärung von Zielen und Absichten. Der Begriff wird vielseitig verwendet, eine allgemein akzeptierte Definition existiert nicht. Manifeste sollen in der Regel eine breite Öffentlichkeit erreichen. [ref](https://de.wikipedia.org/wiki/Manifest)
+Ein Manifest (lateinisch manifestus ‚handgreiflich gemacht‘, ‚offenbart‘) ist eine öffentliche Erklärung von Zielen und Absichten. Der Begriff wird vielseitig verwendet, eine allgemein akzeptierte Definition existiert nicht. Manifeste sollen in der Regel eine breite Öffentlichkeit erreichen. [[ref]](https://de.wikipedia.org/wiki/Manifest)
 
 
 # MANIFESTO
