@@ -10,7 +10,7 @@ Dieses Unterfangen ist vorerst offen organisert und startet im virtuellen Raum, 
 
 ## Wie ist die Github Organisation strukturiert
 
-## Wer kann Vorschläge für Diskusionsforen, Treffen machen
+## Wie kann ich Vorschläge machen
 
 
 
