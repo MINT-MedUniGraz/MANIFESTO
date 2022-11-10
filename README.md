@@ -5,14 +5,18 @@ M@M ist eine informelle Gruppe von Mathematikern, Informatikern, Naturwissenscha
 Dieses Unterfangen ist vorerst offen organisert und startet im virtuellen Raum, reale Treffen sind aber natürlich bei Interesse nicht ausgeschlossen. 
 
 ## Wer kann teilnehmen
+Jede & Jeder mit zumindest einem GitHub account.  
 
 ## Wie wird man eingeladen
+durch Mundpropaganda, 
 
 ## Wie ist die Github Organisation strukturiert
 
+Das ist noch offen, alle Vorschläge sind willkommen
+
 ## Wie kann ich Vorschläge machen
 
-
+EInfach in den Diskussioen posten
 
 # MANIFESTO
 
