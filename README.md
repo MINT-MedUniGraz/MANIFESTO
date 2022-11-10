@@ -8,7 +8,7 @@ Dieses Unterfangen ist vorerst offen organisert und startet im virtuellen Raum, 
 Jede & Jeder mit zumindest einem GitHub account.  
 
 ## Wie wird man eingeladen
-durch Mundpropaganda, 
+durch Mundpropaganda, einfach um aufnahme anfragen bei Interesse und der Orginisation folgen. 
 
 ## Wie ist die Github Organisation strukturiert
 
@@ -16,7 +16,7 @@ Das ist noch offen, alle Vorschläge sind willkommen
 
 ## Wie kann ich Vorschläge machen
 
-EInfach in den Diskussioen posten
+Einfach in den Diskussioen posten, https://github.com/MINT-MedUniGraz/MANIFESTO/discussions
 
 # MANIFESTO
 
