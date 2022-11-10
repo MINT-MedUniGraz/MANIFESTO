@@ -5,7 +5,7 @@ M@M ist eine informelle Gruppe von Mathematikern, Informatikern, Naturwissenscha
 Dieses Unterfangen ist vorerst offen organisert und startet im virtuellen Raum, reale Treffen sind aber natürlich bei Interesse nicht ausgeschlossen. 
 
 ## Wer kann teilnehmen
-Jede & Jeder mit zumindest einem GitHub account. Einfach ein Mitglied der Organisatoren Gruppe [Organisatoren Gruppe](https://github.com/orgs/MINT-MedUniGraz/teams/organisatoren) anschreiben.  
+Jede & Jeder mit zumindest einem GitHub account. Einfach ein Mitglied der[Organisatoren Gruppe](https://github.com/orgs/MINT-MedUniGraz/teams/organisatoren) anschreiben.  
 
 ## Wie wird man eingeladen
 durch Mundpropaganda, einfach um aufnahme anfragen bei Interesse und der Orginisation folgen. 
