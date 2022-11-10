@@ -1,6 +1,8 @@
-# MANIFEST
+# MINT @ MedUni Graz
 
-Erklärung von Absichten, Motiven oder Ansichten des M@M. Ein Manifest (lateinisch manifestus "handgreiflich gemacht", "offenbart") ist eine öffentliche Erklärung von Zielen und Absichten. Der Begriff wird vielseitig verwendet, eine allgemein akzeptierte Definition existiert nicht. Manifeste sollen in der Regel eine breite Öffentlichkeit erreichen. [[ref]](https://de.wikipedia.org/wiki/Manifest)
+M@M ist eine informelle Gruppe von Mathematikern, Informatikern, Naturwissenschaftlern und Technikern an der Medizinischen Universität Graz. Wir wollen uns in dieser GitHub Orginzation finden, kennenlernen, austauschen und geimeinsame aktivitäten planen. Dieses Unterfangen ist vorerst offen organisert und startet im virtuellen Raum, reale Treffen sind aber natürlich bei Interesse nicht ausgeschlossen. 
+
+
 
 
 # MANIFESTO
