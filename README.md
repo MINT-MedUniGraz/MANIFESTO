@@ -1,22 +1,21 @@
 # MINT @ MedUni Graz
 
-M@M ist eine informelle Gruppe von Mathematikern, Informatikern, Naturwissenschaftlern und Technikern an der Medizinischen Universität Graz. Wir wollen uns in dieser GitHub Orginzation finden, kennenlernen, austauschen und geimeinsame Aktivitäten planen. 
+M@M ist eine informelle Gruppe von Mathematikern, Informatikern, Naturwissenschaftlern und Technikern an der Medizinischen Universität Graz. Wir wollen uns in dieser GitHub Orginzation finden, kennenlernen, austauschen und gemeinsame Aktivitäten planen. 
 
-Dieses Unterfangen ist vorerst offen organisert und startet im virtuellen Raum, reale Treffen sind aber natürlich bei Interesse nicht ausgeschlossen. 
+Dieses Unterfangen ist  offen organisert und startet im virtuellen Raum, reale Treffen sind aber natürlich bei Interesse nicht ausgeschlossen. 
 
 ## Wer kann teilnehmen
-Jede & Jeder mit zumindest einem GitHub account. Einfach ein Mitglied fragen, oder [members.txt](https://github.com/MINT-MedUniGraz/MANIFESTO/blob/main/members.txt) editieren (macht dann automatisch einen pull request).  
+Jede & Jeder mit zumindest einem GitHub account. Einfach ein Mitglied fragen, oder in diesem Rpository im [Issue Bereich um Aufnahme  ](https://github.com/MINT-MedUniGraz/MANIFESTO/issues)
+anfragen,  
 
-## Wie wird man eingeladen
-durch Mundpropaganda, einfach um aufnahme anfragen bei Interesse und der Orginisation folgen. 
+## Wie erfahren Kollegen in der Medizinischen Ubiversiät 
+Durch Mundpropaganda,  
 
 ## Wie ist die Github Organisation strukturiert
-
-Das ist noch offen, alle Vorschläge sind willkommen
+Das ist noch offen, alle Vorschläge sind willkommen 
 
 ## Wie kann ich Vorschläge machen
-
-Einfach in den Diskussioen posten, https://github.com/MINT-MedUniGraz/MANIFESTO/discussions
+Mitglied in dieser Organisation werden und dann in den [Diskussioen(nur sichtbar für Mitglieder)](https://github.com/MINT-MedUniGraz/MANIFESTO/discussions) posten.
 
 # MANIFESTO
 
