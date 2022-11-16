@@ -11,11 +11,11 @@ anfragen.
 ## Wie erfahren Kollegen in der Medizinischen Universität 
 Durch Mundpropaganda, durch Informationen im MedUniverse, etc. 
 
-## Wie ist die Github Organisation strukturiert
-Das ist noch offen, alle Vorschläge sind willkommen 
+## Wie ist die Github Organisation strukturiert, wie kann ich Vorschläge machen ?
+Das ist noch offen, alle Vorschläge sind willkommen. Einfach Mitglied in dieser Organisation werden und dann in den [Diskussionen(nur sichtbar für Mitglieder)](https://github.com/MINT-MedUniGraz/MANIFESTO/discussions) posten.
 
-## Wie kann ich Vorschläge machen
-Mitglied in dieser Organisation werden und dann in den [Diskussioen(nur sichtbar für Mitglieder)](https://github.com/MINT-MedUniGraz/MANIFESTO/discussions) posten.
+##
+
 
 # MANIFESTO
 
