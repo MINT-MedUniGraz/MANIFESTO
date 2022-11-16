@@ -8,13 +8,9 @@ Dieses Unterfangen ist  offen organisert und startet im virtuellen Raum, reale T
 Jede & Jeder mit zumindest einem GitHub Account. Einfach ein Mitglied fragen oder in den [Issues hier um Aufnahme](https://github.com/MINT-MedUniGraz/MANIFESTO/issues)
 anfragen.  
 
-## Wie erfahren Kollegen in der Medizinischen Universität 
-Durch Mundpropaganda, durch Informationen im MedUniverse, etc. 
-
 ## Wie ist die Github Organisation strukturiert, wie kann ich Vorschläge machen ?
 Das ist noch offen, alle Vorschläge sind willkommen. Einfach Mitglied in dieser Organisation werden und dann in den [Diskussionen(nur sichtbar für Mitglieder)](https://github.com/MINT-MedUniGraz/MANIFESTO/discussions) posten.
 
-##
 
 
 # MANIFESTO
