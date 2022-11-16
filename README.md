@@ -12,7 +12,6 @@ anfragen.
 Das ist noch offen, alle Vorschläge sind willkommen. Einfach Mitglied in dieser Organisation werden und dann in den [Diskussionen(nur sichtbar für Mitglieder)](https://github.com/MINT-MedUniGraz/MANIFESTO/discussions) posten.
 
 
-
 # MANIFESTO
 
 Declaration of the intentions, motives, or views of the M@M. A manifesto is political, social or artistic in nature, sometimes revolutionary, but may present an individual's life stance. 
