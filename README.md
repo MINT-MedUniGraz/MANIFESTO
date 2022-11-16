@@ -1,6 +1,6 @@
 # MINT @ MedUni Graz
 
-M@M ist eine informelle Gruppe von Mathematikern, Informatikern, Naturwissenschaftlern und Technikern an der Medizinischen Universität Graz. Wir wollen uns in dieser GitHub Orginzation finden, kennenlernen, austauschen und gemeinsame Aktivitäten planen. 
+M@M ist eine informelle Gruppe von Mathematikern, Informatikern, Naturwissenschaftlern und Technikern an der Medizinischen Universität Graz. Wir wollen uns in dieser GitHub Organization finden, kennenlernen, austauschen und gemeinsame Aktivitäten planen. 
 
 Dieses Unterfangen ist  offen organisert und startet im virtuellen Raum, reale Treffen sind aber natürlich bei Interesse nicht ausgeschlossen. 
 
