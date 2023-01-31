@@ -13,4 +13,12 @@ Das ist noch offen, alle Vorschläge sind willkommen.  Mitglied in dieser Organi
 
 # MANIFESTO
 
-Declaration of the intentions, motives, or views of the M@M. A manifesto is political, social or artistic in nature, sometimes revolutionary, but may present an individual's life stance. 
+M@M is an informal group of mathematicians, computer scientists, natural scientists and technicians at the Medical University of Graz. We want to find each other in this GitHub organisation, get to know each other, exchange ideas and plan joint activities.
+
+This venture is openly organised and starts in virtual space, but real meetings are of course not excluded if there is interest.
+
+## Who can participate
+Anyone with at least one GitHub account. Just ask a member or ask in the [Issues here for inclusion](https://github.com/MINT-MedUniGraz/MANIFESTO/issues).  Put a watch on those areas you want to actively get information from. 
+
+## How is M@M structured, how can I make suggestions ?
+This is still open, all suggestions are welcome.  Become a member of this organisation and post in the [discussions](https://github.com/MINT-MedUniGraz/MANIFESTO/discussions).
